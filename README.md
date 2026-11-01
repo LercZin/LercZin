@@ -1,40 +1,43 @@
 # Lucas Emanuel Ramos Carvalho
 
-### Software Developer · Business Systems, Web Applications & Integrations
+### Software Developer · Business Systems, Integrations & Infrastructure
 
-**PHP / Laravel · React / TypeScript · Next.js · MySQL · REST APIs**
+**PHP / Laravel · Python / FastAPI · Go · React / TypeScript**  
+**PostgreSQL · MySQL · REST APIs · Linux**
 
-I build software that connects **sales, inventory, payments and delivery operations**. My work spans requirements, interfaces, backend rules, databases, integrations and deployment. Practical experience in furniture assembly, sales and marketing helps me translate operational problems into usable systems.
+I develop applications that connect **sales, inventory, payments and operational workflows**. My work spans interfaces, backend rules, databases, integrations and deployment. Practical experience in furniture assembly, sales and marketing helps me understand the work a system needs to support.
 
-[Portfolio](https://github.com/LercZin/portfolio) · [Technical evidence](https://github.com/LercZin/portfolio/blob/main/docs/engineering-evidence.md) · [Español](https://github.com/LercZin/portfolio/blob/main/README.es.md) · [Contact](mailto:lercsz1472@gmail.com)
+[Portfolio](https://github.com/LercZin/portfolio) · [Engineering map](https://github.com/LercZin/portfolio/blob/main/docs/engineering-map.md) · [Español](https://github.com/LercZin/portfolio/blob/main/README.es.md) · [Contact](mailto:lercsz1472@gmail.com)
 
-## Selected projects
+## Public code to inspect
 
-| Project | My contribution | Engineering focus |
+| Project | What to evaluate | Stack |
 | --- | --- | --- |
-| [**Retail Operations Demo**](https://github.com/LercZin/retail-operations-demo) | Runnable portfolio reference with fictional stores and accounts. | Laravel, React/TypeScript, transactional stock, idempotent orders, Go reader and automated CI. |
-| [**Pinheiro Móveis**](https://github.com/LercZin/portfolio/blob/main/case-studies/pinheiro-moveis.md) | Independent development of a multi-store furniture retail management application. | Laravel, Livewire, MySQL, store isolation, inventory, installment payments and delivery workflows. |
-| [**Viure Maranhão**](https://github.com/LercZin/portfolio/blob/main/case-studies/viure.md) | Independent development of the commerce experience, APIs and integrations. | Next.js, React, TypeScript, Laravel, payment webhooks, checkout recovery and shipping. |
-| [**UniBot**](https://github.com/LercZin/unibot) | Complete application implementation within an academic team; team credits preserved. | Python, FastAPI, MySQL, intent classification, application services and automated tests. |
+| [**PostgreSQL Outbox Lab**](https://github.com/LercZin/postgres-outbox-lab) | Atomic event persistence, concurrent workers, retries and duplicate delivery. | Go, pgx, PostgreSQL, HTTP |
+| [**Pathfinding Lab**](https://github.com/LercZin/pathfinding-lab) | A* and Dijkstra on weighted grids, deterministic results and a keyboard-accessible interface. | TypeScript, algorithms, browser APIs |
+| [**Data Reconciliation Lab**](https://github.com/LercZin/data-reconciliation-lab) | Strict CSV ingestion, quarantine, repeated imports and explainable SQL reports. | Python, SQLite, SQL |
+| [**Retail Operations Demo**](https://github.com/LercZin/retail-operations-demo) | Store isolation, transactional stock and safe retries in a complete application. | Laravel, React/TypeScript, MySQL/SQLite, Go |
+| [**UniBot**](https://github.com/LercZin/unibot) | Owner-scoped conversations, application services and widget/API regression tests. | Python, FastAPI, MySQL, JavaScript |
 
-## What I bring to a team
+The four labs are portfolio references created in November 2026 with fictional data. Each includes run instructions, tests, CI and design boundaries. UniBot is academic: I implemented the application and preserve its original team credits.
 
-- **Business understanding:** connect customer journeys and operational constraints to data models, screens and rules.
-- **Backend engineering:** validated APIs, authorization, transaction boundaries and reliable external-service integration.
-- **Frontend development:** responsive interfaces, stateful commerce journeys and API integration.
-- **Verification:** PHPUnit, Playwright, pytest and JavaScript regression tests, selected according to the behavior being checked.
-- **Implementation and delivery:** Git, Linux VPS environments, deployment workflows and hardware/software integration. A public **Go** stock-reader integration accompanies the retail demo.
+## Business case studies
 
-Start with the [runnable Laravel + React demo](https://github.com/LercZin/retail-operations-demo), including its setup, design decisions and verification record. For another public example, [UniBot's CI](https://github.com/LercZin/unibot/actions/workflows/tests.yml) runs **75 Python tests and 11 JavaScript tests**. The [evidence guide](https://github.com/LercZin/portfolio/blob/main/docs/engineering-evidence.md) connects portfolio claims to specific examples and explains verification scope.
+- [**Pinheiro Móveis**](https://github.com/LercZin/portfolio/blob/main/case-studies/pinheiro-moveis.md): independent development of multi-store retail, sales, stock, installment payments and delivery workflows. Laravel, Livewire and MySQL.
+- [**Viure Maranhão**](https://github.com/LercZin/portfolio/blob/main/case-studies/viure.md): independent development of commerce interfaces, APIs, payments and shipping. Next.js, React, TypeScript, Laravel and MySQL.
+
+Both projects started in 2022. Commercial source and operational records remain private.
+
+## Technical breadth
+
+The [engineering map](https://github.com/LercZin/portfolio/blob/main/docs/engineering-map.md) connects reviewed work to PostgreSQL synchronization, SQLAlchemy, pgx, bounded local AI integration, exact financial state, Godot/GDScript, static publishing and Linux deployment workflows. The [verification guide](https://github.com/LercZin/portfolio/blob/main/docs/engineering-evidence.md) separates executed public checks from private source review.
+
+For an executed regression example, UniBot has **75 passing Python tests and 11 JavaScript tests**, including conversation authorization and widget/history routing. Its CI and test scope are linked from the repository.
 
 ## Opportunities and contact
 
-Interested in **Software Developer, Full-Stack Developer, PHP/Laravel Backend and React/TypeScript Frontend** opportunities.
-
-Based in **São Luís, Brazil**. Open to relocation to Spain with employer-supported work authorization and available for remote interviews and technical assessments.
+Interested in **Software Developer, Full-Stack, Backend and Frontend** opportunities. Based in **São Luís, Brazil**, open to relocation to Spain with employer-supported work authorization, and available for remote interviews and technical assessments.
 
 **Education:** Computer Science, Anhanguera · started 2022 · completion expected December 2026.  
 **Languages:** Portuguese native · English intermediate · Spanish intermediate.  
 **Email:** [lercsz1472@gmail.com](mailto:lercsz1472@gmail.com)
-
-Pinheiro Móveis and Viure are independent projects started in 2022. Their commercial application source remains private; public case studies document the work. I implemented the UniBot application within an academic team; its original team credits remain. The Go reader simulates keyboard-style scan input; physical hardware validation is not claimed.
