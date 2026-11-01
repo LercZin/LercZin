@@ -1,6 +1,6 @@
 # Lucas Emanuel Ramos Carvalho
 
-Full-stack developer building business applications with **PHP, Laravel, React, TypeScript and MySQL**.
+Software developer working across **full-stack applications, deployment and hardware/software integration**, with a practical focus on business operations.
 
 I connect software to everyday operations: sales, inventory, payments, deliveries and customer journeys. My background in sales and marketing helps me understand the people and processes behind an interface.
 
@@ -20,6 +20,7 @@ Pinheiro Móveis and Viure are independent projects I started in 2022 and have c
 - **Frontend:** React, TypeScript, Next.js, Livewire, HTML and CSS.
 - **Reliability:** database transactions, inventory consistency, idempotent webhooks, PHPUnit and Playwright.
 - **Delivery:** Git, Linux VPS environments and deployment workflows.
+- **Additional experience:** Go and integrating software with hardware to put systems into use.
 
 ## About me
 
